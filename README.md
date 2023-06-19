@@ -1,6 +1,8 @@
 # AngularPipe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+Most commonly used pipes in angular,
+Custom made pipes included.
 
 ## Development server
 
